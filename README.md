@@ -32,7 +32,7 @@ Here are some technologies and tools I work with:
 
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/erlnrinzl/islab_new-recruitment) - A web-based recruitment platform for the Information Systems Laboratory at Bina Nusantara University.
+- [IS Lab recruitment](https://github.com/erlnrinzl/islab_new-recruitment) - A web-based recruitment platform for the Information Systems Laboratory at Bina Nusantara University.
   [Live Version](https://islab.apps.binus.ac.id/recruitmentislab/)
 
 ## 📫 Connect with Me
