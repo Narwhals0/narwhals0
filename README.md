@@ -20,8 +20,7 @@ Here are some technologies and tools I work with:
 
 **Cloud Platforms:** 
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
-  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
+  ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 
 
 ## 📈 GitHub Stats
@@ -33,7 +32,7 @@ Here are some technologies and tools I work with:
 Here are some of my favorite projects:
 
 - [IS Lab recruitment](https://github.com/erlnrinzl/islab_new-recruitment) - A web-based recruitment platform for the Information Systems Laboratory at Bina Nusantara University.
-  [Live Version](https://islab.apps.binus.ac.id/recruitmentislab/)
+  ![Live Version](https://islab.apps.binus.ac.id/recruitmentislab/)
 
 ## 📫 Connect with Me
 
