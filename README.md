@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kevin!
 
-Welcome to my GitHub profile! I'm a student at Bina Nusantara University, majoring in Information Systems with a focus on streaming and cloud computing. Here, you'll find my projects, experiments, and contributions to the tech community.
+Welcome to my GitHub profile! I'm a student at Bina Nusantara University, majoring in Information Systems with a focus on cloud computing. Here, you'll find my projects, experiments, and contributions to the tech community.
 
 ## 🚀 About Me
 
