@@ -18,7 +18,7 @@ Here are some technologies and tools I work with:
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-- **Cloud Platforms:** 
+**Cloud Platforms:** 
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
   ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
