@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a student at Bina Nusantara University, majori
 - 🌱 I'm currently expanding my knowledge in AWS, IoT, and emerging technologies.
 - 👯 I’m looking to collaborate on cloud-based applications and IoT projects.
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/kevinjuliantan)
-- 🌐 [My Website](narwhals0.github.io)
+- 🌐 [My Website](www.narwhals0.github.io)
 
 ## 🛠️ Technologies & Tools
 
