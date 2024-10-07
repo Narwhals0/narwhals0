@@ -34,7 +34,7 @@ Here are some of my favorite projects:
 
 - [IS Lab recruitment](https://github.com/erlnrinzl/islab_new-recruitment) - A web-based recruitment platform for the Information Systems Laboratory at Bina Nusantara University.
   [Live Version](https://islab.apps.binus.ac.id/recruitmentislab/)
-- [CLminton] (https://github.com/narwhals0/CLminton) - Java-based application to manage product transactions in the store using a MySQL database. The project was developed as part of the Business Application   
+- [CLminton](https://github.com/narwhals0/CLminton) - Java-based application to manage product transactions in the store using a MySQL database. The project was developed as part of the Business Application   
   Development (ISYS6197003) course in the Odd Semester 2023/2024 at Bina Nusantara.
 
 Table of Contents
